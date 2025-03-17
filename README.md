@@ -1,6 +1,6 @@
 # Axion Emissivity Tables
 
-This repository provides emissivity and absorption tables for axion production through the following processes:
+This repository provides emissivity and absorption tables for axion production in electron relativistic plasma through the following processes:
 
 - Semi-Compton scattering  
 - Pair annihilation  
